@@ -1,0 +1,10 @@
+Githublink: https://github.com/Sahithi-Kasarla/Phase3EndProject
+
+Step-1.Open a project using ASP.NET Core Web API Project. 
+Step -2.Create Model class such as DeptMaster.cs and EmpProfile and provided necessary variable for the table. 
+Step-3.Installed Microsoft.EntityFrameworkcore. tools, Microsoft.EntityFrameworkcore. SQL Server and MicrosoftSQLServer.Server Nuget package manager. 
+Step-4.Build solution-> Then add controllers for each model class DeptMastersControllers and EmpProfilesControllers.
+Step-5.Give the MS-SQL server name in the appsettings.json and a database name.
+Step-6. Then add migration using commands in the nuget package console. Entity Framework Migrations are used to manage the database schema. Migrations help in creating and updating the database based on the defined models and their relationships. 
+Step-7.In this project the Swagger tool is used for testing the api and to simulate the process of CRUD operations.
+Step-8.Program executed successfully
